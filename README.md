@@ -1,16 +1,13 @@
-## Hi there 👋
+# Javier Tia
 
-<!--
-**jetm/jetm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Systems Engineer — Linux Kernel · Embedded · Yocto · CI/CD
 
-Here are some ideas to get you started:
+🌍 Costa Rica — Remote  
+📬 javier@jetm.me  
+🔗 [LinkedIn](https://cr.linkedin.com/in/javiertia) · [Blog](https://jetm.github.io/blog)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Currently available for new opportunities** — freelance or full-time, fully remote.
+
+Open source work: [mediatek-mt7927-dkms](https://github.com/jetm/mediatek-mt7927-dkms) · [jig](https://github.com/jetm/jig) · [glpkg](https://github.com/jetm/glpkg) · [devspec](https://github.com/jetm/devspec)
