@@ -8,4 +8,4 @@ Senior Systems Engineer - Linux Kernel · Security · Yocto · CI/CD
 
 **Currently available for new opportunities** — freelance or full-time, fully remote.
 
-Open source work: [mediatek-mt7927-dkms](https://github.com/jetm/mediatek-mt7927-dkms) · [jig](https://github.com/jetm/jig) · [glpkg](https://github.com/jetm/glpkg) · [devspec](https://github.com/jetm/devspec)
+Open source work: [mediatek-mt7927-dkms](https://github.com/jetm/mediatek-mt7927-dkms) · [jig](https://github.com/jetm/jig) · [glpkg](https://github.com/jetm/glpkg)
